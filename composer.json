@@ -36,5 +36,15 @@
 		"branch-alias": {
 			"dev-master": "1.x-dev"
 		}
+	},
+	"require-dev": {
+		"jakub-onderka/php-parallel-lint": "0.9.*",
+		"mediawiki/mediawiki-codesniffer": "0.3.0"
+	},
+	"scripts": {
+		"test": [
+			"parallel-lint . --exclude vendor",
+			"phpcs -p"
+		]
 	}
 }

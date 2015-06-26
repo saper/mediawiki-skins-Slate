@@ -422,7 +422,10 @@ class SlateTemplate extends BaseTemplate {
 							}
 						}
 						?>
-						<h3 id="p-variants-label"><span><?php echo htmlspecialchars( $variantLabel ) ?></span><a href="#"></a></h3>
+						<h3 id="p-variants-label">
+							<span><?php echo htmlspecialchars( $variantLabel ) ?></span>
+							<a href="#"></a>
+						</h3>
 
 						<div class="menu">
 							<ul>
