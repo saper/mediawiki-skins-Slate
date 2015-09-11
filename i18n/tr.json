@@ -5,19 +5,21 @@
 			"Emperyan",
 			"Joseph",
 			"Stultiwikia",
-			"Vito Genovese"
+			"Vito Genovese",
+			"KorkmazO"
 		]
 	},
+	"slate-skin-desc": "MonoBook'un yeni görünüme ve birçok kullanışlı geliştirmelere sahip modern versiyonu",
 	"slate-action-addsection": "Konu ekle",
 	"slate-action-delete": "Sil",
 	"slate-action-move": "Taşı",
 	"slate-action-protect": "Koru",
-	"slate-action-undelete": "Silinmeyi geri al",
+	"slate-action-undelete": "Silmeyi geri al",
 	"slate-action-unprotect": "Korumayı değiştir",
 	"slate-view-create": "Oluştur",
 	"slate-view-edit": "Düzenle",
 	"slate-view-history": "Geçmişi gör",
 	"slate-view-view": "Oku",
 	"slate-view-viewsource": "Kaynağı gör",
-	"slate-more-actions": "Diğer"
+	"slate-more-actions": "Daha fazla"
 }
