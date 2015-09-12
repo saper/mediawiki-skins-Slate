@@ -3,11 +3,12 @@
 		"authors": [
 			"Bhawani Gautam",
 			"RajeshPandey",
-			"सरोज कुमार ढकाल"
+			"सरोज कुमार ढकाल",
+			"राम प्रसाद जोशी"
 		]
 	},
 	"skinname-slate": "भेक्टर",
-	"slate.css": "/* यहाँ राखिएको CSS ले भेक्टर स्किनको प्रयोगकर्ताहरुलाई प्रभावित गर्ने छ  */",
+	"slate.css": "/* यहाँ राखिएको CSS ले भेक्टर स्किनको प्रयोगकर्ताहरूलाई प्रभावित गर्ने छ  */",
 	"slate-action-addsection": "विषय थप्नुहोस",
 	"slate-action-delete": "हटाउने",
 	"slate-action-move": "सार्ने",
