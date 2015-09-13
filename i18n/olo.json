@@ -1,0 +1,14 @@
+{
+	"@metadata": {
+		"authors": [
+			"Mashoi7"
+		]
+	},
+	"slate-action-delete": "Ota iäre",
+	"slate-action-move": "Siirrä",
+	"slate-view-create": "Luaji",
+	"slate-view-history": "Ozuta histourii",
+	"slate-view-view": "Luve",
+	"slate-view-viewsource": "Kačo algukoodu",
+	"slate-more-actions": "Enämbi"
+}
