@@ -4,8 +4,10 @@
 			"Mashoi7"
 		]
 	},
+	"slate-action-addsection": "Ližiä tiemu",
 	"slate-action-delete": "Ota iäre",
 	"slate-action-move": "Siirrä",
+	"slate-action-protect": "Suojua",
 	"slate-view-create": "Luaji",
 	"slate-view-history": "Ozuta histourii",
 	"slate-view-view": "Luve",
