@@ -18,11 +18,11 @@
 	"slate-action-move": "Mover",
 	"slate-action-protect": "Proteger",
 	"slate-action-undelete": "Restaurar",
-	"slate-action-unprotect": "Alterar protecção",
+	"slate-action-unprotect": "Alterar proteção",
 	"slate-view-create": "Criar",
 	"slate-view-edit": "Editar",
 	"slate-view-history": "Ver histórico",
 	"slate-view-view": "Ler",
-	"slate-view-viewsource": "Ver fonte",
+	"slate-view-viewsource": "Ver código-fonte",
 	"slate-more-actions": "Mais"
 }
