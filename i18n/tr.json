@@ -6,7 +6,8 @@
 			"Joseph",
 			"Stultiwikia",
 			"Vito Genovese",
-			"KorkmazO"
+			"KorkmazO",
+			"Rapsar"
 		]
 	},
 	"slate-skin-desc": "MonoBook'un yeni görünüme ve birçok kullanışlı geliştirmelere sahip modern versiyonu",
@@ -17,7 +18,7 @@
 	"slate-action-undelete": "Silmeyi geri al",
 	"slate-action-unprotect": "Korumayı değiştir",
 	"slate-view-create": "Oluştur",
-	"slate-view-edit": "Düzenle",
+	"slate-view-edit": "Değiştir",
 	"slate-view-history": "Geçmişi gör",
 	"slate-view-view": "Oku",
 	"slate-view-viewsource": "Kaynağı gör",
