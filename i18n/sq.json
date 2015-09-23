@@ -5,11 +5,12 @@
 			"GretaDoci",
 			"MicroBoy",
 			"Mikullovci11",
-			"Olsi"
+			"Olsi",
+			"Kosovastar"
 		]
 	},
 	"slate-action-addsection": "Shto një temë",
-	"slate-action-delete": "Grise",
+	"slate-action-delete": "Fshi",
 	"slate-action-move": "Zhvendose",
 	"slate-action-protect": "Mbroje",
 	"slate-action-undelete": "Anullo fshirjen",
@@ -18,6 +19,6 @@
 	"slate-view-edit": "Redakto",
 	"slate-view-history": "Shiko historikun",
 	"slate-view-view": "Lexo",
-	"slate-view-viewsource": "Shiko tekstin",
+	"slate-view-viewsource": "Shiko tekstin burimor",
 	"slate-more-actions": "Më tepër..."
 }
