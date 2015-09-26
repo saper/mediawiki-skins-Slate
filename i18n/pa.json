@@ -4,12 +4,13 @@
 			"Aalam",
 			"Babanwalia",
 			"Raj Singh",
-			"TariButtar"
+			"TariButtar",
+			"ਪ੍ਰਚਾਰਕ"
 		]
 	},
 	"slate-action-addsection": "ਵਿਸ਼ਾ ਜੋੜੋ",
 	"slate-action-delete": "ਹਟਾਓ",
-	"slate-action-move": "ਭੇਜੋ",
+	"slate-action-move": "ਮੋੜੋ",
 	"slate-action-protect": "ਸੁਰੱਖਿਆ",
 	"slate-action-undelete": "ਹਟਾਉਣਾ-ਵਾਪਸ",
 	"slate-action-unprotect": "ਸੁਰੱਖਿਆ ਬਦਲੋ",
