@@ -9,7 +9,7 @@
 			"Waldir"
 		]
 	},
-	"slate-skinname": "Slate",
+	"skinname-slate": "Slate",
 	"slate-skin-desc": "Versão moderna do MonoBook com um visual fresco e várias melhorias de usabilidade",
 	"slate.css": "/* Código CSS colocado aqui afectará os utilizadores do tema Slate */",
 	"slate.js": "/* Código Javascript colocado aqui será carregado para utilizadores do tema Slate */",

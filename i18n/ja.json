@@ -10,7 +10,7 @@
 			"Takot"
 		]
 	},
-	"slate-skinname": "ベクター",
+	"skinname-slate": "ベクター",
 	"slate-skin-desc": "新しい見た目でユーザビリティが改善された、モダンバージョンのMonobook。",
 	"slate.css": "/* ここに記述したCSSはベクター外装の利用者に影響します */",
 	"slate.js": "/* ここにあるすべてのJavaScriptは、ベクター外装を使用している利用者に対して読み込まれます */",
