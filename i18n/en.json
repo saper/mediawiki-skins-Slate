@@ -2,7 +2,7 @@
 	"@metadata": {
 		"authors": []
 	},
-	"slate-skinname": "Slate",
+	"skinname-slate": "Slate",
 	"slate-skin-desc": "Modern version of MonoBook with fresh look and many usability improvements",
 	"slate.css": "/* CSS placed here will affect users of the Slate skin */",
 	"slate.js": "/* Any JavaScript here will be loaded for users using the Slate skin */",
