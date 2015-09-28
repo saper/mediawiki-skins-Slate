@@ -25,7 +25,7 @@
 $GLOBALS['wgExtensionCredits']['skin'][] = array(
 	'path' => __FILE__,
 	'name' => 'Slate',
-	'namemsg' => 'slate-skinname',
+	'namemsg' => 'skinname-slate',
 	'descriptionmsg' => 'slate-skin-desc',
 	'url' => 'https://www.mediawiki.org/wiki/Skin:Slate',
 	'author' => array( 'Trevor Parscal', 'Roan Kattouw', '...' ),

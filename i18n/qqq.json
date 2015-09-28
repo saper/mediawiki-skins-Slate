@@ -10,7 +10,7 @@
 			"Liuxinyu970226"
 		]
 	},
-	"slate-skinname": "{{optional}}",
+	"skinname-slate": "{{optional}}",
 	"slate-skin-desc": "{{desc|what=skin|name=Slate|url=https://www.mediawiki.org/wiki/Skin:Slate}}",
 	"slate.css": "{{optional}}",
 	"slate.js": "{{optional}}",
