@@ -2,7 +2,8 @@
 	"@metadata": {
 		"authors": [
 			"Ferhengvan",
-			"Gomada"
+			"Gomada",
+			"Bikarhêner"
 		]
 	},
 	"slate-action-addsection": "Mijarekê lê zêde bike",
@@ -15,5 +16,6 @@
 	"slate-view-edit": "Biguherîne",
 	"slate-view-history": "Dîrokê bibîne",
 	"slate-view-view": "Bixwîne",
-	"slate-view-viewsource": "Çavkaniyan bibîne"
+	"slate-view-viewsource": "Çavkaniyan bibîne",
+	"slate-more-actions": "Bêhtir"
 }

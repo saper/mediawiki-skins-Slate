@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Better"
+			"Better",
+			"Henares"
 		]
 	},
 	"slate-action-addsection": "Añiil tema",
@@ -13,6 +14,6 @@
 	"slate-view-create": "Crial",
 	"slate-view-edit": "Eital",
 	"slate-view-history": "Guipal estorial",
-	"slate-view-view": "Leyel",
+	"slate-view-view": "Leel",
 	"slate-view-viewsource": "Guipal cóigu"
 }
