@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Gleki"
+			"Gleki",
+			"KSFT"
 		]
 	},
 	"skinname-slate": "la vektor",
@@ -14,7 +15,7 @@
 	"slate-action-unprotect": "co'u bandu",
 	"slate-view-create": "zbasu",
 	"slate-view-edit": "stika",
-	"slate-view-history": "citri lo ckupau",
+	"slate-view-history": "citri lo papri",
 	"slate-view-view": "tcidu",
 	"slate-view-viewsource": "cpacu lo krasi",
 	"slate-more-actions": "ji'a"
