@@ -5,9 +5,10 @@
 			"Taresi"
 		]
 	},
-	"slate-action-delete": "Ticpolōz",
-	"slate-action-move": "Ticzacāz",
-	"slate-action-protect": "Ticquīxtīz",
+	"slate-action-delete": "Xicpolo",
+	"slate-action-move": "Xiczaca",
+	"slate-action-protect": "Xicpiya",
+	"slate-action-undelete": "Xicmāquīxti",
 	"slate-view-create": "Ticchīhuaz",
 	"slate-view-edit": "Ticpatlaz",
 	"slate-view-history": "Tiquittaz tlahtōllōtl",
