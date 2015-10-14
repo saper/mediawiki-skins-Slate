@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Mehtab ahmed"
+			"Mehtab ahmed",
+			"Aursani"
 		]
 	},
 	"slate-action-addsection": "عنوان وجهو",
@@ -12,7 +13,7 @@
 	"slate-action-unprotect": "اڻتحفظيو",
 	"slate-view-create": "سرجيو",
 	"slate-view-edit": "سنواريو",
-	"slate-view-history": "تاريخ ڏيکاريو",
+	"slate-view-history": "سوانح ڏيکاريو",
 	"slate-view-view": "پڙهو",
 	"slate-view-viewsource": "ڪوڊ ڏسو",
 	"slate-more-actions": "وڌيڪ"
