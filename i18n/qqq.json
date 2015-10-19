@@ -9,7 +9,8 @@
 			"Matma Rex",
 			"Liuxinyu970226",
 			"Raymond",
-			"Aursani"
+			"Aursani",
+			"Macofe"
 		]
 	},
 	"skinname-slate": "{{optional}}",
@@ -25,7 +26,7 @@
 	"slate-view-create": "Tab label in the Slate skin. See for example {{canonicalurl:Foo|useskin=slate}}\n{{Identical|Create}}",
 	"slate-view-edit": "Tab label in the Slate skin. See for example {{canonicalurl:Main_Page|useskin=slate}}\n{{Identical|Edit}}",
 	"slate-view-history": "Tab label in the Slate skin. See for example {{canonicalurl:Main_Page|useskin=slate}}\n{{Identical|View history}}",
-	"slate-view-view": "Tab label in the Slate skin (verb). See for example {{canonicalurl:Main_Page|useskin=slate}}.\n{{Identical|پڙهو}}",
+	"slate-view-view": "Tab label in the Slate skin (verb). See for example {{canonicalurl:Main_Page|useskin=slate}}.\n{{Identical|Read}}",
 	"slate-view-viewsource": "Tab label in the Slate skin.\n{{Identical|View source}}",
 	"slate-more-actions": "Label in the Slate skin's menu for the less-important or rarer actions which are not shown as tabs (like moving the page, or for sysops deleting or protecting the page), as well as (for users with a narrow viewing window in their browser) the less-important tab actions which the user's browser is unable to fit in. {{Identical|More}}"
 }
