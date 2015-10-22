@@ -5,12 +5,12 @@
 			"Aursani"
 		]
 	},
-	"slate-action-addsection": "عنوان وجهو",
+	"slate-action-addsection": "عنوان ڄاڻايو",
 	"slate-action-delete": "ڊاھيو",
 	"slate-action-move": "چوريو",
 	"slate-action-protect": "تحفظيو",
-	"slate-action-undelete": "واپس آڻيو",
-	"slate-action-unprotect": "اڻتحفظيو",
+	"slate-action-undelete": "اڻ‌ڊاهيو",
+	"slate-action-unprotect": "تحفظ بدلايو",
 	"slate-view-create": "سرجيو",
 	"slate-view-edit": "سنواريو",
 	"slate-view-history": "سوانح ڏيکاريو",
