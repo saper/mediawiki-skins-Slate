@@ -4,6 +4,7 @@
 			"HalanTul"
 		]
 	},
+	"slate-skin-desc": "Аныгы, саҥардыллыбыт, тупсарыллыбыт MonoBook",
 	"slate-action-addsection": "Тиэмэ эбии",
 	"slate-action-delete": "Сот",
 	"slate-action-move": "Аатын уларыт",
@@ -14,5 +15,6 @@
 	"slate-view-edit": "Уларыт",
 	"slate-view-history": "Устуоруйатын көрүү",
 	"slate-view-view": "Ааҕыы",
-	"slate-view-viewsource": "Бэлиэлэрин көрүү"
+	"slate-view-viewsource": "Бэлиэлэрин көрүү",
+	"slate-more-actions": "Эбии"
 }
