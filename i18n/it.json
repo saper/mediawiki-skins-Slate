@@ -11,8 +11,8 @@
 		]
 	},
 	"slate-skin-desc": "Versione moderna del MonoBook con un aspetto rinnovato e molti miglioramenti dell'usabilità",
-	"slate.css": "/* Gli stili CSS inseriti qui si applicano agli utenti che usano la skin Slate */",
-	"slate.js": "/* Il codice JavaScript inserito qui viene caricato dagli utenti che usano la skin Slate */",
+	"slate.css": "/* Gli stili CSS inseriti qui si applicano agli utenti che usano il tema Slate */",
+	"slate.js": "/* Il codice JavaScript inserito qui viene caricato dagli utenti che usano il tema Slate */",
 	"slate-action-addsection": "Aggiungi discussione",
 	"slate-action-delete": "Cancella",
 	"slate-action-move": "Sposta",
