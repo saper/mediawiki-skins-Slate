@@ -13,7 +13,7 @@
 	"slate.js": "/* 이 자바스크립트 설정은 슬레이트 스킨을 사용하는 사용자에게 적용됩니다 */",
 	"slate-action-addsection": "새 주제",
 	"slate-action-delete": "삭제",
-	"slate-action-move": "옮기기",
+	"slate-action-move": "이동",
 	"slate-action-protect": "보호",
 	"slate-action-undelete": "삭제 취소",
 	"slate-action-unprotect": "보호 설정 바꾸기",
