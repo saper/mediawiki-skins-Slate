@@ -1,7 +1,8 @@
 {
 	"@metadata": {
 		"authors": [
-			"Игорь Бродский"
+			"Игорь Бродский",
+			"Sebranik"
 		]
 	},
 	"slate-action-addsection": "Ližada tem",
@@ -14,5 +15,6 @@
 	"slate-view-edit": "Redaktiruida",
 	"slate-view-history": "Kacta istorii",
 	"slate-view-view": "Lugeda",
-	"slate-view-viewsource": "Kacta purtkehe"
+	"slate-view-viewsource": "Kacta purtkehe",
+	"slate-more-actions": "Völ"
 }
