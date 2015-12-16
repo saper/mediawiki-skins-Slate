@@ -35,7 +35,9 @@
 	"extra"      : {
 		"branch-alias": {
 			"dev-master": "1.x-dev"
-		}
+		},
+		"installer-name": "Slate"
+
 	},
 	"require-dev": {
 		"jakub-onderka/php-parallel-lint": "0.9.*",
